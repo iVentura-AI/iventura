@@ -10,4 +10,7 @@ Our Platform comes equipped with models to solve use cases like document finder,
 
 
 Click [here]https://www.iventura.ai to know about iVentura
+-----------------------------------------------------------
+
 Click [here]http://workspace.iventura.ai to play with iVentura
+--------------------------------------------------------------
