@@ -13,4 +13,6 @@ Click [here](https://www.iventura.ai) to know more about iVentura
 -----------------------------------------------------------------
 
 Click [here](http://workspace.iventura.ai) to play with iVentura
---------------------------------------------------------------
+---------------------------------------------------------------
+
+We encourage you to ask questions and report your [issues](https://github.com/iVentura-AI/iventura/issues)
