@@ -9,8 +9,8 @@ To obtain accurate results, being able to test on humongous test data is crucial
 Our Platform comes equipped with models to solve use cases like document finder, where you can dig up old documents whose name or content is forgotten, Sentiment Analysis for drugs and medicines where various products and also competitor products are on trial to analyze how their brand resonates in the market. This kind of analysis helps businesses in their post-launch market research. iVentura offers custom-sculpted models and visualizations including but not limited to Revenue forecasting and Fraud detection. iVentura provides flexibility and choice for business analysts, stakeholders and helps you document and identify patterns early on and helps drive your company’s business acumen.
 
 
-Click [here](https://www.iventura.ai) to know about iVentura
------------------------------------------------------------
+Click [here](https://www.iventura.ai) to know more about iVentura
+-----------------------------------------------------------------
 
 Click [here](http://workspace.iventura.ai) to play with iVentura
 --------------------------------------------------------------
